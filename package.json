@@ -1,0 +1,10 @@
+{
+  "name": "bmad_test",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "bmad-method": "4.43.1"
+  },
+  "scripts": {
+    "bmad": "bmad-method"
+  }
+}
